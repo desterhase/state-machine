@@ -1,0 +1,179 @@
+.DS_Store
+Advanced Node.js Development - Andrew Mead (2018).epub
+AJAX and PHP_ Building Modern Web Applications, 2ed. - Bogdan Brinzarea-Iamandi, et al (2009).pdf
+Automate It!_ Recipes to upskill your business - Chetan Giridhar (2017).pdf
+Automate the Boring Stuff with Python - Al Sweigart (2015).pdf
+BASH Cookbook - Carl Albing, et al. (2007).pdf
+Bash Guide for Beginners - Machtelt Garrels (2008).pdf
+BASH Pocket Reference, 2ed. - Arnold Robbins (2016).pdf
+Beginning Ruby_ From Novice to Professional - Peter Cooper (2007).pdf
+BSD Hacks - Dru Lavigne (2004).pdf
+Building a Home Security System with Arduino - Jorge R. Castro (2015).pdf
+Car PC Hacks - Damien Stolarz (2005).pdf
+Cassandra_ The Definitive Guide - Jeff Carpenter, Eben Hewitt (2017).pdf
+Classic Shell Scripting - Arnold Robbins, Nelson H. F. Beebe (2005).pdf
+Clojure for the Brave and True - Daniel Higginbotham (2015).pdf
+Code Complete, 2ed - Steven C. McConnell (2004).pdf
+Computer Networking_ A Top Down Approach, 6ed. - James F. Kurose, Keith W. Ross (2013).pdf
+Computer Networks, 5ed. - Andrew S. Tanenbaum, David J. Wetherall (2011).pdf
+Containerizing Continuous Delivery in Java - Daniel Bryant (2017).pdf
+Continuous Delivery with Docker and Jenkins - Rafał Leszko (2017).pdf
+Cracking the Coding Interview, 6ed. - Gayle Laakmann McDowell (2015).pdf
+CSS Framework Alternatives - Aravind Shenoy, Anirudh Prabhu (2018).pdf
+CSS in Depth - Keith J. Grant (2018).pdf
+CSS Pocket Reference, 5ed - Eric A. Meyer (2018).pdf
+CSS Refactoring - Steve Lindstrom (2017).pdf
+CSS Secrets - Lea Verou (2015).pdf
+CSS3 for Web Designers - Dan Cederholm (2010).pdf
+CSS_ The Definitive Guide, 4ed. - Eric A. Meyer, Estelle Weyl (2017).pdf
+D3js_ Tips and Tricks, v4 - Malcolm Maclean (2016).pdf
+Data Science at the Command Line -Jeroen Janssens (2015).pdf
+Database System Concepts, 6th - Abraham Silberschatz (2011).pdf
+Deploying Node - Sandro Pasquali (2015).pdf
+Deployment with Docker - Srdjan Grubor (2017).pdf
+Designing Data-Intensive Applications - Martin Kleppmann (2017).pdf
+Designing with CSS Grid Layout - SitePoint (2017).pdf
+Developing Secure Mobile Applications for Android - Jesse Burns (2008).pdf
+DevOps for Networking - Steven Armstrong (2016).pdf
+DevOps with Kubernetes - Hideto Saito, et al (2017).pdf
+DNS and Bind, 5ed - Cricket Liu and Paul Albitz (2006).pdf
+Docker and Kubernetes for Java Developers - Jaroslaw Krochmalski (2017).pdf
+Doing Data Science - Cathy O’Neil, Rachel Schutt (2014).pdf
+Effective Devops with AWS - Nathaniel Felsen (2017).pdf
+Elementary Algorithms - Larry LIU Xinyu (2016).pdf
+Essential Systems Administration, 3rd - Æleen Frisch (2002).pdf
+Excel Hacks.pdf
+Experiences of Test Automation_ Case Studies of Software Test Automation - Dorothy Graham, Mark Fewster (2012).epub
+Flexbox in CSS.pdf
+gaminghacks.epub
+Getting Started with Kubernetes_secondedition.pdf
+Graph Databases.pdf
+Hacking - The Art of Exploration.pdf
+Hadoop - The Definitive Guide.pdf
+Head First Data Analysis.pdf
+High Performance Images.pdf
+High Performance MySQL.pdf
+High Performance Spark.pdf
+hometheatrehacks.pdf
+html5hacks.pdf
+htmlandcss.pdf
+Icon
+ifhemingwaywrotejavascript.pdf
+Information Architecture for the Web and Beyond.pdf
+interactivedatavisualizationfortheweb.pdf
+introducinggo.pdf
+introductiontoalgorithms.pdf
+introtocryptography.pdf
+irchacks.pdf
+javascript_thegoodparts.pdf
+javascriptpatterns.pdf
+joyofcoding_sampler.pdf
+jsonatwork.pdf
+kinecthacks.pdf
+landoflisp.pdf
+learningcontinuousintegrationwithjenkins.pdf
+learninggnuemacs.pdf
+learninghttp2.pdf
+learningjavascript.pdf
+learningnodejsdevelopment.epub
+learningphpmysqljavascript_fifthedition.pdf
+learningpython.pdf
+learningreact1.pdf
+learningreactnative.pdf
+learningspark.pdf
+learningthebashshell.pdf
+learningtheviandvimeditors.pdf
+learningunixforosx.pdf
+learntoprogram.pdf
+learnyouahaskellforgreatgood.pdf
+learnyousomeerlangforgreatgood.pdf
+lexandyacc.pdf
+linearalgebradoneright.pdf
+linuxbible.pdf
+linuxkernel_inanutshell.pdf
+linuxpocketguide.pdf
+logicandcomputerdesignfundementals.pdf
+Mark Geddes - Arduino Project Handbook_ 25 Practical Projects to Get You Started (2016).epub
+Mastering Ansible.pdf
+Mastering Docker.pdf
+Mastering Javascript - Design Patterns.pdf
+Mastering Javascript - High Performance.pdf
+Mastering Javascript - Promises.pdf
+masteringkubernetes.pdf
+mindhacks.pdf
+minecraftmoddingwithforge.pdf
+mobileappdevelopmentwithionic.pdf
+Modern Web Development.pdf
+modernc.pdf
+MongoDB - The Definitive Guide.pdf
+networktroubleshootingtools.pdf
+objectorientedvsfunctionalprogramming.pdf
+openstackadministrationwithansible2.pdf
+optimizedcpp.pdf
+perlhacs.pdf
+practicalmachinelearning_anewlookatanomalydetection.pdf
+practicalmachinelearning_innovationsinrecommendation.pdf
+practicalmachinelearningwithh2o.pdf
+practicalnetworkautomation.pdf
+productionreadymicroservices.pdf
+progit.pdf
+programmingfromthegroundup.pdf
+programmingprinciplesandpracticeusingcpp.pdf
+programmingvoiceinterfaces.pdf
+puppet5beginnersguide.pdf
+pythonprogramming_geekyprojectsforthecuriousprogrammer.pdf
+Randal E. Bryant, David R. O'Hallaron - Computer Systems_ A Programmer's Perspective-Pearson (2015).pdf
+raspberrypihacks.pdf
+reactnativecookbook.pdf
+reactnativecookbook_lebensold.pdf
+realmofracket.pdf
+refactoringjavascript.pdf
+responsivetypography.pdf
+responsivewebdesign.pdf
+restfulwebapis.pdf
+retrogaminghacks.pdf
+rinanutshell.pdf
+sedandawk.pdf
+sevenframeworksinsevenweeks.pdf
+signals and systems [1996].pdf
+single page applications [2014].pdf
+sound reproduction - loud speakers and rooms [2008].pdf
+sql hacks [2007].pdf
+Starting Out With C++_ Early Objects - Tony Gaddis, et al. (2014).pdf
+statisticalinsights.pdf
+statisticshacks.pdf
+structureandinterpertationofcomputerprograms.pdf
+svganimations.pdf
+systemsperformance.pdf
+tcpipnetworkadministration.pdf
+tenstepstolinuxsurvival.pdf
+the javascript umbrella
+The Linux programming interface_ a Linux and UNIX system programming handbook.pdf
+The New CSS Layout.epub
+thealgorithmdesignmanual.pdf
+theartofrprogramming.pdf
+thebookoffsharp.pdf
+TheCProgrammingLanguage.pdf
+thedatasciencehandbook.pdf
+thegoprogramminglanguage.pdf
+thelinuxcommandline.pdf
+theprinciplesofobjectorientedjavascript.pdf
+thesecruityimpactofanewcryptographiclibrary.pdf
+thinkbayes.pdf
+thinklikeaprogrammer.pdf
+thinkstats.pdf
+thinkstats_probabilityandstatisticsforprogrammers.pdf
+thoughtfulmachinelearningwithpython.pdf
+timeseriesdatabases_newwaystostoreandaccessdata.pdf
+UNIX Powertools.pdf
+unixinanutshell.pdf
+usingsvgwithcss3andhtml5.pdf
+uxforbeginners.pdf
+vagrant_upandrunning.pdf
+webmanagementforregularpeople.pdf
+webscrapingwithpython.pdf
+whyspoignantguidetoruby.pdf
+windowsserver2016automationwithpowershellcookbook.pdf
+workingwithstaticsites.pdf
+writegreatcode_volume1.pdf
+writegreatcode_volume2.pdf
